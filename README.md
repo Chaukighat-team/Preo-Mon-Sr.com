@@ -1,16 +1,13 @@
-<!DOCTYPE html> 
-<html> 
-  <body> 
+<html>
+<body>
 
-	<video width="400" controls>
-	  <source src="https://m.youtube.com/watch?v=kiGSzSIYBxI" type="video/mp4"></source>
-	  <source src="https://m.youtube.com/watch?v=kiGSzSIYBxI" type="video/mp4"></source>
-	</video>
+<video width="320" height="240" controls autoplay>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
 
-	<p>
-	  Video courtesy of 
-	  <a href="http://www.bunny.org/" target="_blank">Big Buck Bunny</a>.
-	</p>
+<p><strong>Note:</strong> The video tag is not supported in Internet Explorer 8 and earlier versions.</p>
 
-  </body> 
+</body>
 </html>
