@@ -17,8 +17,8 @@ body  {
 	<center><h1>SR-Global-Consultation.Com</h1></center>
   </head>
 
-  <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kiGSzSIYBxI&autoplay=5" frameborder="0" allowfullscreen></iframe>
-
+  <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kiGSzSIYBxI&autoplay=5" frameborder="0" allowfullscreen></iframe></
+  center>
   <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VPSWPGXCjhY" frameborder="0" allowfullscreen></iframe></center>
 
   <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eXb7rfX5F0Y" frameborder="0" allowfullscreen></iframe></center>
