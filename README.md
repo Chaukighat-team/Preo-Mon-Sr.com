@@ -1,13 +1,23 @@
-<html>
-<body>
-
-<video width="320" height="240" controls autoplay>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
-
-<p><strong>Note:</strong> The video tag is not supported in Internet Explorer 8 and earlier versions.</p>
-
-</body>
-</html>
+<div id="ytplayer"></div>
+<script>
+// Load the IFrame Player API code asynchronously.
+var tag = document.createElement('script');
+tag.src = "https://m.youtube.com/watch?v=kiGSzSIYBxI";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+// Replace the 'ytplayer' element with an <iframe> and
+// YouTube player after the API code downloads.
+var player;
+function onYouTubePlayerAPIReady() {
+    player = new YT.Player('ytplayer', {
+        height: '480',
+        width: '853',
+        videoId: 'JW5meKfy3fY',
+        playerVars: {
+            'autoplay': 1,
+            'showinfo': 0,
+            'controls': 0
+        }
+    });
+}
+</script>
