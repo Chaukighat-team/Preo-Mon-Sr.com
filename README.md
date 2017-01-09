@@ -23,7 +23,7 @@ body  {
 
   <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eXb7rfX5F0Y" frameborder="0" allowfullscreen></iframe></center>
 
-  <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kj9JvGxL6VM" frameborder=&autoplay="0" allowfullscreen></iframe></center>
+  <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kj9JvGxL6VM" frameborder=&autoplay=1"0" allowfullscreen></iframe></center>
 <marquee scrollamount="10"
 	  direction="left"
 	  behavior="scroll">
