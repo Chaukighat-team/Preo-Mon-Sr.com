@@ -21,7 +21,7 @@ body  {
   
   <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VPSWPGXCjhY" frameborder="0" allowfullscreen></iframe></center>
 
-  <center><iframe width="560" height="315" src="http://www.smule.com/p/806901474_723730681"frameborder="0" allowfullscreen></iframe></center>
+  <center><iframe width="560" height="315" src="http://www.smule.com/p/806901474_723730681?&autoplay="frameborder="0" allowfullscreen></iframe></center>
 
   <center><iframe width="560" height="315" src="http://www.smule.com/p/806901474_72373068&autoplay=1"frameborder="0" allowfullscreen></iframe></center>
 <marquee scrollamount="10"
