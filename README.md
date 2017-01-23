@@ -15,7 +15,7 @@
 	<tr>
 	<th height="130px"width="980></th>
 	<th></th>
-	<th width="1%"></th>
+	<th width="20px""></th>
 	</tr></table></body>
 	  <body>
 		<table width="100%">
