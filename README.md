@@ -13,15 +13,13 @@
 	  <body>
 		<table width="980">
 	<tr>
-	  <td height="88px" width="95px"></td>
+	  <td height="88px" width="95px"></td>
 	  <td width="25%"><marquee behavior="scroll" direction="left"><b><font size="55px"><font color="green"></font></font></b></marquee></td>
 	  <td width="105px"></td></tr>
-	</table>	
-		<table width="980">
-	<tr>
-	  <td height="73px" width="95px"></td>
-	  <td width="25%"><marquee behavior="scroll" direction="left"><b><font size="55px"><font color="green">WEL-COME  TO  CHAUKIGHAT-TEAM</font></font></b></marquee></td>
-	  <td width="105px"></td></tr>
+		  <tr>
+			<td height="73px" width="95px"></td>
+			<td width="25%"><marquee behavior="scroll" direction="left"><b><font size="55px"><font color="green">WEL-COME  TO  CHAUKIGHAT-TEAM</font></font></b></marquee></td>
+			<td width="105px"></td></tr>
 	</table>
   </body>
   <body>
