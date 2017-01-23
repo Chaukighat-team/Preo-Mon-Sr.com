@@ -11,13 +11,12 @@
 	  td{ border:1px solid gren;}
 	  </style>
 	  <body>
-	<table width="980">
+		<table width="980">
 	<tr>
-	<th height="88px"width="29px"></th>
-	<th></th>
-	<th width="20px"></th>
-	</tr></table></body>
-	  <body>
+	  <td height="88px" width="95px"></td>
+	  <td width="25%"><marquee behavior="scroll" direction="left"><b><font size="55px"><font color="green"></font></font></b></marquee></td>
+	  <td width="105px"></td></tr>
+	</table>	
 		<table width="980">
 	<tr>
 	  <td height="73px" width="95px"></td>
