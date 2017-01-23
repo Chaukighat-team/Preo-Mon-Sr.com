@@ -13,7 +13,7 @@
 	  <body>
 	<table width="980">
 	<tr>
-	<th height="88px"width="1%"></th>
+	<th height="130px"width="980></th>
 	<th></th>
 	<th width="1%"></th>
 	</tr></table></body>
