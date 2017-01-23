@@ -13,7 +13,7 @@
 	  <body>
 		<table width="980">
 	<tr>
-	  <td height="100px" width="95px"></td>
+	  <td height="90px" width="95px"></td>
 	  <td width="25%"><marquee behavior="scroll" direction="left"><b><font size="55px"><font color="green"></font></font></b></marquee></td>
 	  <td width="105px"></td></tr>
 		  <tr>
@@ -84,4 +84,3 @@
 	</tr>
   </table>
   </body>
-</html>
